@@ -1,0 +1,38 @@
+experiment_name: sabr_localvol_consistency
+valuation_date: "2026-03-15"
+underlying: SP5
+spot: 100.0
+rate: 0.02
+div_yield: 0.0
+currency: EUR
+
+sabr:
+  alpha: 2.00
+  beta: 0.50
+  rho: -0.30
+  nu: 0.40
+  alpha_bounds: [0.01, 5.0]
+  nu_bounds: [0.01, 2.0]
+  rho_bounds: [-0.95, 0.95]
+
+localvol:
+  method: dupire
+  smoothing: 0.0001
+  interpolation: bicubic
+  fd_t_grid: 200
+  fd_x_grid: 200
+  fd_scheme: Douglas
+
+pricing:
+  mc_paths: 65536
+  seed: 42
+  lv_mc_steps_per_yr: 10
+  fd_t_grid: 200
+  fd_x_grid: 200
+  antithetics: true
+  brownian_bridge: true
+
+parameter_sweep:
+  beta: [0.3, 0.5, 0.7]
+  strike_nodes: [15, 25, 40]
+  smoothing: [1.0e-4, 1.0e-3]

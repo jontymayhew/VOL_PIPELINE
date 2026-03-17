@@ -1,0 +1,5 @@
+ProductType,N,RMSE,MeanError,MaxAbsError,StdError,N_Failed,PassRate_%
+Asian,1,0.011769,-0.011769,0.011769,,0,100.0
+Barrier,3,0.011769,-0.011769,0.011769,0.0,0,100.0
+ForwardStart,1,0.016786,-0.016786,0.016786,,0,100.0
+Vanilla,27,0.00204,0.000675,0.009412,0.001962,0,100.0

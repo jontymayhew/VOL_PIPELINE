@@ -1,0 +1,1010 @@
+<Portfolio>
+  <Trade id="VAN_6M_60">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Put</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2026-09-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>60.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_6M_70">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Put</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2026-09-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>70.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_6M_80">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Put</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2026-09-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>80.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_6M_90">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Put</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2026-09-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>90.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_6M_100">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2026-09-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>100.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_6M_110">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2026-09-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>110.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_6M_120">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2026-09-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>120.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_6M_130">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2026-09-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>130.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_6M_140">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2026-09-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>140.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_1Y_60">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Put</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2027-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>60.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_1Y_70">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Put</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2027-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>70.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_1Y_80">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Put</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2027-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>80.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_1Y_90">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Put</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2027-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>90.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_1Y_100">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2027-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>100.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_1Y_110">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2027-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>110.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_1Y_120">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2027-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>120.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_1Y_130">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2027-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>130.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_1Y_140">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2027-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>140.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_2Y_60">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Put</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2028-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>60.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_2Y_70">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Put</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2028-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>70.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_2Y_80">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Put</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2028-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>80.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_2Y_90">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Put</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2028-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>90.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_2Y_100">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2028-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>100.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_2Y_110">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2028-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>110.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_2Y_120">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2028-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>120.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_2Y_130">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2028-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>130.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="VAN_2Y_140">
+    <TradeType>EquityOption</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+      <AdditionalFields />
+    </Envelope>
+    <EquityOptionData>
+      <OptionData>
+        <LongShort>Long</LongShort>
+        <OptionType>Call</OptionType>
+        <Style>European</Style>
+        <Settlement>Cash</Settlement>
+        <PayOffAtExpiry>true</PayOffAtExpiry>
+        <ExerciseDates>
+          <ExerciseDate>2028-03-15</ExerciseDate>
+        </ExerciseDates>
+      </OptionData>
+      <Name>SP5</Name>
+      <Currency>EUR</Currency>
+      <Strike>140.0</Strike>
+      <StrikeCurrency>EUR</StrikeCurrency>
+      <Quantity>1.0</Quantity>
+    </EquityOptionData>
+  </Trade>
+  <Trade id="BAR_Up_120_1Y">
+    <TradeType>ScriptedTrade</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+    </Envelope>
+    <ScriptedTradeData>
+      <Script>
+        <Code>&lt;![CDATA[
+NUMBER Alive, Payoff;
+Alive = 1;
+FOR d IN (ObservationDates) DO
+  IF UpDown * Underlying(d) &gt;= UpDown * Barrier THEN
+    Alive = 1 - KnockedOut;
+  END;
+END;
+Payoff = Alive * max(PutCall * (Underlying(Expiry) - Strike), 0);
+Option = PAY(LongShort * Quantity * Payoff, Expiry, Expiry, PayCcy);
+]]&gt;</Code>
+        <NPV>Option</NPV>
+        <CalibrationSpec>
+          <Calibration>
+            <Index>Underlying</Index>
+            <Strikes>
+              <Strike>Strike</Strike>
+            </Strikes>
+          </Calibration>
+        </CalibrationSpec>
+      </Script>
+      <Data>
+        <Event>
+          <Name>Expiry</Name>
+          <Value>2027-03-15</Value>
+        </Event>
+        <Number>
+          <Name>Strike</Name>
+          <Value>100.0</Value>
+        </Number>
+        <Number>
+          <Name>Barrier</Name>
+          <Value>120.0</Value>
+        </Number>
+        <Number>
+          <Name>PutCall</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>LongShort</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>Quantity</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>KnockedOut</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>UpDown</Name>
+          <Value>1</Value>
+        </Number>
+        <Index>
+          <Name>Underlying</Name>
+          <Value>EQ-SP5</Value>
+        </Index>
+        <Currency>
+          <Name>PayCcy</Name>
+          <Value>EUR</Value>
+        </Currency>
+        <EventSet>
+          <Name>ObservationDates</Name>
+          <Value>2027-03-15</Value>
+        </EventSet>
+      </Data>
+    </ScriptedTradeData>
+  </Trade>
+  <Trade id="BAR_Up_130_1Y">
+    <TradeType>ScriptedTrade</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+    </Envelope>
+    <ScriptedTradeData>
+      <Script>
+        <Code>&lt;![CDATA[
+NUMBER Alive, Payoff;
+Alive = 1;
+FOR d IN (ObservationDates) DO
+  IF UpDown * Underlying(d) &gt;= UpDown * Barrier THEN
+    Alive = 1 - KnockedOut;
+  END;
+END;
+Payoff = Alive * max(PutCall * (Underlying(Expiry) - Strike), 0);
+Option = PAY(LongShort * Quantity * Payoff, Expiry, Expiry, PayCcy);
+]]&gt;</Code>
+        <NPV>Option</NPV>
+        <CalibrationSpec>
+          <Calibration>
+            <Index>Underlying</Index>
+            <Strikes>
+              <Strike>Strike</Strike>
+            </Strikes>
+          </Calibration>
+        </CalibrationSpec>
+      </Script>
+      <Data>
+        <Event>
+          <Name>Expiry</Name>
+          <Value>2027-03-15</Value>
+        </Event>
+        <Number>
+          <Name>Strike</Name>
+          <Value>100.0</Value>
+        </Number>
+        <Number>
+          <Name>Barrier</Name>
+          <Value>130.0</Value>
+        </Number>
+        <Number>
+          <Name>PutCall</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>LongShort</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>Quantity</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>KnockedOut</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>UpDown</Name>
+          <Value>1</Value>
+        </Number>
+        <Index>
+          <Name>Underlying</Name>
+          <Value>EQ-SP5</Value>
+        </Index>
+        <Currency>
+          <Name>PayCcy</Name>
+          <Value>EUR</Value>
+        </Currency>
+        <EventSet>
+          <Name>ObservationDates</Name>
+          <Value>2027-03-15</Value>
+        </EventSet>
+      </Data>
+    </ScriptedTradeData>
+  </Trade>
+  <Trade id="BAR_Do_80_1Y">
+    <TradeType>ScriptedTrade</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+    </Envelope>
+    <ScriptedTradeData>
+      <Script>
+        <Code>&lt;![CDATA[
+NUMBER Alive, Payoff;
+Alive = 1;
+FOR d IN (ObservationDates) DO
+  IF UpDown * Underlying(d) &gt;= UpDown * Barrier THEN
+    Alive = 1 - KnockedOut;
+  END;
+END;
+Payoff = Alive * max(PutCall * (Underlying(Expiry) - Strike), 0);
+Option = PAY(LongShort * Quantity * Payoff, Expiry, Expiry, PayCcy);
+]]&gt;</Code>
+        <NPV>Option</NPV>
+        <CalibrationSpec>
+          <Calibration>
+            <Index>Underlying</Index>
+            <Strikes>
+              <Strike>Strike</Strike>
+            </Strikes>
+          </Calibration>
+        </CalibrationSpec>
+      </Script>
+      <Data>
+        <Event>
+          <Name>Expiry</Name>
+          <Value>2027-03-15</Value>
+        </Event>
+        <Number>
+          <Name>Strike</Name>
+          <Value>100.0</Value>
+        </Number>
+        <Number>
+          <Name>Barrier</Name>
+          <Value>80.0</Value>
+        </Number>
+        <Number>
+          <Name>PutCall</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>LongShort</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>Quantity</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>KnockedOut</Name>
+          <Value>0</Value>
+        </Number>
+        <Number>
+          <Name>UpDown</Name>
+          <Value>-1</Value>
+        </Number>
+        <Index>
+          <Name>Underlying</Name>
+          <Value>EQ-SP5</Value>
+        </Index>
+        <Currency>
+          <Name>PayCcy</Name>
+          <Value>EUR</Value>
+        </Currency>
+        <EventSet>
+          <Name>ObservationDates</Name>
+          <Value>2027-03-15</Value>
+        </EventSet>
+      </Data>
+    </ScriptedTradeData>
+  </Trade>
+  <Trade id="ASIAN_ATM_1Y">
+    <TradeType>ScriptedTrade</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+    </Envelope>
+    <ScriptedTradeData>
+      <Script>
+        <Code>&lt;![CDATA[
+NUMBER avg, n, Payoff;
+n = 0;
+avg = 0;
+FOR d IN (AveragingDates) DO
+  avg = avg + Underlying(d);
+  n = n + 1;
+END;
+avg = avg / n;
+Payoff = max(avg - Strike, 0);
+Option = PAY(LongShort * Quantity * Payoff, Expiry, Expiry, PayCcy);
+]]&gt;</Code>
+        <NPV>Option</NPV>
+      </Script>
+      <Data>
+        <Event>
+          <Name>Expiry</Name>
+          <Value>2027-03-15</Value>
+        </Event>
+        <Number>
+          <Name>Strike</Name>
+          <Value>100.0</Value>
+        </Number>
+        <Number>
+          <Name>LongShort</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>Quantity</Name>
+          <Value>1</Value>
+        </Number>
+        <Index>
+          <Name>Underlying</Name>
+          <Value>EQ-SP5</Value>
+        </Index>
+        <Currency>
+          <Name>PayCcy</Name>
+          <Value>EUR</Value>
+        </Currency>
+        <EventSet>
+          <Name>AveragingDates</Name>
+          <Value>2027-03-15</Value>
+        </EventSet>
+      </Data>
+    </ScriptedTradeData>
+  </Trade>
+  <Trade id="FWDSTART_6M_18M">
+    <TradeType>ScriptedTrade</TradeType>
+    <Envelope>
+      <CounterParty>CPTY</CounterParty>
+      <NettingSetId>CPTY</NettingSetId>
+    </Envelope>
+    <ScriptedTradeData>
+      <Script>
+        <Code>&lt;![CDATA[
+NUMBER Payoff, ForwardStrike;
+ForwardStrike = Moneyness * Underlying(StartDate);
+Payoff = max(Underlying(Expiry) - ForwardStrike, 0);
+Option = PAY(LongShort * Quantity * Payoff, Expiry, Expiry, PayCcy);
+]]&gt;</Code>
+        <NPV>Option</NPV>
+      </Script>
+      <Data>
+        <Event>
+          <Name>StartDate</Name>
+          <Value>2026-09-15</Value>
+        </Event>
+        <Event>
+          <Name>Expiry</Name>
+          <Value>2027-09-15</Value>
+        </Event>
+        <Number>
+          <Name>Moneyness</Name>
+          <Value>1.0</Value>
+        </Number>
+        <Number>
+          <Name>LongShort</Name>
+          <Value>1</Value>
+        </Number>
+        <Number>
+          <Name>Quantity</Name>
+          <Value>1</Value>
+        </Number>
+        <Index>
+          <Name>Underlying</Name>
+          <Value>EQ-SP5</Value>
+        </Index>
+        <Currency>
+          <Name>PayCcy</Name>
+          <Value>EUR</Value>
+        </Currency>
+      </Data>
+    </ScriptedTradeData>
+  </Trade>
+</Portfolio>

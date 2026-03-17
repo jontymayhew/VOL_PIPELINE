@@ -1,0 +1,91 @@
+{
+  "overall_passed": true,
+  "total_trades": 32,
+  "n_failed": 0,
+  "stability_score": 0.022124,
+  "path_dep_bias": -0.013448,
+  "maturity_rmse": {
+    "1Y": 0.00122,
+    "2Y": 0.003306,
+    "6M": 0.000253
+  },
+  "product_summary": [
+    {
+      "ProductType": "Asian",
+      "N": 1,
+      "RMSE": 0.011769,
+      "MeanError": -0.011769,
+      "MaxAbsError": 0.011769,
+      "StdError": NaN,
+      "N_Failed": 0,
+      "PassRate_%": 100.0
+    },
+    {
+      "ProductType": "Barrier",
+      "N": 3,
+      "RMSE": 0.011769,
+      "MeanError": -0.011769,
+      "MaxAbsError": 0.011769,
+      "StdError": 0.0,
+      "N_Failed": 0,
+      "PassRate_%": 100.0
+    },
+    {
+      "ProductType": "ForwardStart",
+      "N": 1,
+      "RMSE": 0.016786,
+      "MeanError": -0.016786,
+      "MaxAbsError": 0.016786,
+      "StdError": NaN,
+      "N_Failed": 0,
+      "PassRate_%": 100.0
+    },
+    {
+      "ProductType": "Vanilla",
+      "N": 27,
+      "RMSE": 0.00204,
+      "MeanError": 0.000675,
+      "MaxAbsError": 0.009412,
+      "StdError": 0.001962,
+      "N_Failed": 0,
+      "PassRate_%": 100.0
+    }
+  ],
+  "worst_trades": [
+    {
+      "TradeId": "FWDSTART_6M_18M",
+      "ProductType": "ForwardStart",
+      "NPV_SABR": 11.159009873495492,
+      "NPV_LV": 11.346328949914934,
+      "ModelError": -0.01678635278066703
+    },
+    {
+      "TradeId": "VAN_2Y_60",
+      "ProductType": "Vanilla",
+      "NPV_SABR": 1.1359768376844692,
+      "NPV_LV": 0.9834218771122896,
+      "ModelError": 0.009412018067620105
+    },
+    {
+      "TradeId": "BAR_Up_120_1Y",
+      "ProductType": "Barrier",
+      "NPV_SABR": 8.912821041273181,
+      "NPV_LV": 9.017718359985082,
+      "ModelError": -0.011769261182979645
+    },
+    {
+      "TradeId": "BAR_Up_130_1Y",
+      "ProductType": "Barrier",
+      "NPV_SABR": 8.912821041273181,
+      "NPV_LV": 9.017718359985082,
+      "ModelError": -0.011769261182979645
+    },
+    {
+      "TradeId": "BAR_Do_80_1Y",
+      "ProductType": "Barrier",
+      "NPV_SABR": 8.912821041273181,
+      "NPV_LV": 9.017718359985082,
+      "ModelError": -0.011769261182979645
+    }
+  ]
+}

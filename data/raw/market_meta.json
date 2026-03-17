@@ -1,0 +1,8 @@
+{
+  "source": "synthetic",
+  "valuation_date": "2026-03-15",
+  "underlying": "SP5",
+  "spot": 100.0,
+  "rate": 0.02,
+  "div_yield": 0.0
+}

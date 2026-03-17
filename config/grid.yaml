@@ -1,0 +1,25 @@
+strike_range: [0.5, 1.5]
+strike_nodes: 25
+
+strikes: [60, 70, 80, 90, 100, 110, 120, 130, 140]
+
+maturities:
+  - label: "6M"
+    years: 0.5
+    date: "2026-09-15"
+  - label: "1Y"
+    years: 1.0
+    date: "2027-03-15"
+  - label: "2Y"
+    years: 2.0
+    date: "2028-03-15"
+
+surface:
+  strikes:
+    min: 55.0
+    max: 160.0
+    n: 106
+  tenors:
+    min: 0.0833
+    max: 3.0
+    n: 36
