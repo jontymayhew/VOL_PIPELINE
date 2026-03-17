@@ -1,7 +1,7 @@
 """
 utils/logging_setup.py
 -----------------------
-Centralised logging configuration for the quant-research pipeline.
+Centralised logging configuration for the Vol_Pipeline pipeline.
 """
 
 import logging

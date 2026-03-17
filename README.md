@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a **quantitative research pipeline** that validates the consistency between two widely-used option pricing models:
+This is a **quantitative pipeline** that validates the consistency between two widely-used option pricing models:
 
 - **SABR** (Stochastic Alpha Beta Rho) — a stochastic volatility model by Hagan et al. (2002)
 - **Dupire Local Vol** — a deterministic local volatility model derived from the same implied vol surface
@@ -22,7 +22,7 @@ The goal is to confirm that, when the local vol surface is built from SABR-impli
 ## Project Structure
 
 ```
-quant-research/
+Vol_Pipeline/
 ├── config/
 │   ├── experiment.yaml     # Market params, SABR params, MC settings
 │   └── grid.yaml           # Strike grid, maturity dates, surface resolution
@@ -101,7 +101,7 @@ The pipeline runs 9 stages in sequence:
 ## Running the Pipeline
 
 ```bash
-cd ~/libs/ore/quant-research
+cd ~/libs/ore/Vol_Pipeline
 
 # Full run (uses cache to skip unchanged stages)
 python scripts/runner.py

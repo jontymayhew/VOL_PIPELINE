@@ -5,7 +5,7 @@ Master pipeline driver.
 
 Usage
 -----
-    cd ~/libs/ore/quant-research
+    cd ~/libs/ore/Vol_Pipeline
     python scripts/runner.py                         # full run
     python scripts/runner.py --stage calibration     # one stage only
     python scripts/runner.py --force                 # ignore cache
